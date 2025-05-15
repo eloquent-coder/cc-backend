@@ -10,7 +10,7 @@ This project allows you to:
 
 ## 1. Setup Instructions
 
-### 📦 Create and Activate Virtual Environment
+###  Create and Activate Virtual Environment
 
 ```bash
 # For Windows
